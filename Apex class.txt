@@ -1,1 +1,3 @@
 Global Class
+
+Public class not global
